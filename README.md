@@ -8,14 +8,14 @@ Me chamo Marcelo, tenho 22 anos e sou natural de Marília/SP. Concluí Sistemas 
     <a href="https://www.linkedin.com/in/marcelomourojr/">
         <img 
             alt="LinkedIn" 
-            title="LinkedIn" 
+            title="Meu LinkedIn" 
             src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
         />
     </a>
-    <a href="marceloaugustomouro@gmail.com">
+    <a href="mailto:marceloaugustomouro@gmail.com">
         <img 
             alt="Gmail" 
-            title="Gmail" 
+            title="Me mande um email" 
             src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
         />
     </a> 
@@ -29,7 +29,7 @@ Me chamo Marcelo, tenho 22 anos e sou natural de Marília/SP. Concluí Sistemas 
     <a href="https://discord.com/users/m.mjr">
         <img 
             alt="Discord" 
-            title="Discord" 
+            title="Meu Discord" 
             src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
         />
     </a>
