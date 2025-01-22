@@ -1,4 +1,4 @@
-#  Marcelo M Jr
+# 👨🏻‍💻 Marcelo M Jr
 
 **`Desenvolvedor Flutterflow`**
 
@@ -26,7 +26,7 @@ Me chamo Marcelo, tenho 22 anos e sou natural de Marília/SP. Concluí Sistemas 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://discord.com/users/m.mjr">
         <img 
             alt="Discord" 
             title="Discord" 
