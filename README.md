@@ -127,10 +127,3 @@ Me chamo Marcelo, tenho 22 anos e sou natural de Marília/SP. Concluí Sistemas 
 
 </p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
