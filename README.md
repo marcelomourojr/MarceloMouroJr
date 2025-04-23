@@ -2,7 +2,12 @@
 
 **`Desenvolvedor Flutterflow`**
 
-Me chamo Marcelo, tenho 22 anos e sou natural de Marília/SP. Concluí Sistemas de Informação em 2024 na UAM."
+Mais de 4 anos de experiência em Análise de Testes, Suporte Técnico e
+Gestão Administrativa. Atuação em testes manuais e automatizados, atendimento ao cliente,
+criação de protótipos de interfaces e materiais visuais com foco em usabilidade. Habilidade em
+identificar e resolver falhas, otimizar processos e garantir a qualidade de sistemas e serviços.
+Possui forte base lógica e matemática, integrando conhecimentos em automação e ciência de
+dados aplicados à experiência do usuário."
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marcelomourojr/">
