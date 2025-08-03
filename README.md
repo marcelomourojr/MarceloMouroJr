@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Marcelo M Jr
 
-**`Desenvolvedor com foco em Automação e IA | Educador`**
+**`Desenvolvedor | Educador`**
 
 Formado em Sistemas de Informação e Matemática, + de 4 anos de exp em Análise de Testes, Suporte Técnico e Gestão Administrativa.
 
