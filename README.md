@@ -2,7 +2,7 @@
 
 **`Desenvolvedor com foco em Automação e IA | Educador`**
 
-Tenho mais de 4 anos de experiência em Análise de Testes, Suporte Técnico e Gestão Administrativa. Atuo com testes manuais e automatizados, atendimento ao cliente, criação de protótipos de interfaces e materiais visuais com foco em usabilidade. Tenho facilidade para identificar e resolver falhas, otimizar processos e garantir a qualidade de sistemas e serviços. Possuo uma base sólida em lógica e matemática, integrando conhecimentos em automação e ciência de dados aplicados à experiência do usuário.
+Formado em Sistemas de Informação e Matemática, + de 4 anos de exp em Análise de Testes, Suporte Técnico e Gestão Administrativa.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marcelomourojr/">
